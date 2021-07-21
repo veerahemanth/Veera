@@ -1,0 +1,123 @@
+<html>
+ <head> 
+   <title>The Monkey And The Cap Seller</title>
+   <meta charset="UTF-8">
+ </head>
+ <body>
+	<h1>BedTime Story's For Kid's</h1>
+	<h3>The Monkey And The Cap Seller</h3>
+<h2>The given link about the story's for the reference</h2>
+
+<ul>
+	<li><a href="https://www.bedtimeshortstories.com/monkey-and-the-cap-seller-story">Go to bedtimestories</a></li>
+	<li><a href="http://www.shortstories4kids.com/2018/04/monkey-cap-seller-stories.html">Go to Shortstories4Kids</a></li>
+</ul>
+
+<h2>The story between monkey and seller</h2>
+
+	<p>Once there was a cap-seller who sold beautiful caps. One hot day the cap-seller was going to sell his caps in a village market. He has to cross the forest to reach the village.</p> 
+	<img src="https://3.bp.blogspot.com/-werzsL98mpw/WtdxHwDJwLI/AAAAAAAABSA/dkGjYWFdWFoMUq7_5cbwlHhMI8kxdf06QCLcBGAs/s400/The%2BMonkey%2Band%2BThe%2BCapseller.jpg" alt="seller">
+	
+	<p>He was carrying a basket full of red caps on his head and going through a forest. As it was a hot day, he got tired in the heat of the sun and thought of taking rest for a while.</p> 
+	<img src="https://1.bp.blogspot.com/-IuMsfDxdASk/Wtdw-YoxitI/AAAAAAAABSM/RAz0g4tmCNoVeXqg1iZObIrT4Ur_vHbIQCEwYBhgL/s400/The%2BMonkey%2Band%2BThe%2BCapseller%2B1.jpg" alt="seller">
+	
+	<p>So, he kept his basket on the ground and slept under the tree for some time.There were many monkeys on that tree.The monkeys came down one by one, took all the caps from the cap seller's basket, and then climbed on the tree.</p> 
+	<img src="https://2.bp.blogspot.com/-MvD2wHYWJpc/WtdxA9hdE6I/AAAAAAAABSM/aB53z0Su4yQfvG0Hs4erTYadK1T5SwPpQCEwYBhgL/s400/The%2BMonkey%2Band%2BThe%2BCapseller%2B2.jpg" alt="seller">
+	
+	<p>Suddenly when the cap seller woke up, he was shocked to see his basket empty. He searched for his caps everywhere. But, to his surprise, he saw the monkeys on the tree were wearing them.</p>
+	<img src="https://2.bp.blogspot.com/-Hw0PJj9nlXo/WtdxBc3uiUI/AAAAAAAABSE/sXkH8xRF19kTjkb89kHsuD7mpjWEOx9tACEwYBhgL/s400/The%2BMonkey%2Band%2BThe%2BCapseller%2B3.jpg" alt="seller">
+	
+	<p>The cap seller got very angry and sad. He had no idea how to get his caps back. When the cap seller made an angry face, to his surprise the monkeys also made the angry face. He laughed at them, the monkeys also laughed.</p> 
+	<img src="https://2.bp.blogspot.com/-tXXZ_WO6hXg/WtdxCSafCTI/AAAAAAAABSU/nXJQoH4RClUIzVm3T-x-6sUFy1FP-5moQCEwYBhgL/s400/The%2BMonkey%2Band%2BThe%2BCapseller%2B4.jpg" alt="Monkey">
+	
+	<p>He realized that the monkey was imitating him. So, he thought an idea, the cap-seller took the cap and threw it on the ground.</p> 
+	<img src="https://3.bp.blogspot.com/-Z7rX_cn6NKk/WtdxE4m3snI/AAAAAAAABSQ/BNxme3Kk6mAN_lS_3g0vmXXq6r1EWkhsACEwYBhgL/s400/The%2BMonkey%2Band%2BThe%2BCapseller%2B6.jpg" alt="seller">
+
+	<p>Seeing him the monkeys did the same with their caps.</p>
+<img src="https://4.bp.blogspot.com/-76nksGHHE3o/WtdxH7EDBhI/AAAAAAAABSU/-AemFmucOUcX-ffoqO1674-udD5DW4KbACEwYBhgL/s400/The%2BMonkey%2Band%2BThe%2BCapseller%2B9.jpg" alt="seller">
+	 
+
+	<p>The cap seller collected all the caps thrown by the monkey and put them back into his basket.</p>
+	<img src="https://2.bp.blogspot.com/-xCQCw_pUj-M/Wtdw_ZYSAiI/AAAAAAAABSU/f4J5t8NB1bI6CQZ_Us0QFxzAPrUcn4GqQCEwYBhgL/s400/The%2BMonkey%2Band%2BThe%2BCapseller%2B10.jpg" alt="seller">
+
+	<p>He went on his way back to the village happily.</p>
+	<img src="https://1.bp.blogspot.com/-yKF_8YCGomI/Wtdw_TxjfTI/AAAAAAAABSQ/Qnw49fWCnFQ4lrugcKt9oQdWJdZbn2RcACEwYBhgL/s400/The%2BMonkey%2Band%2BThe%2BCapseller%2B11.jpg
+" alt="seller">
+
+<h4><em>Moral Of the Story:  Wisdom Helps During Difficult Times.</em></h4> 
+
+<p>For any Doubt feel free to mail me</p>
+	<div>
+		<ul>
+			<h3><li><a href="mailto:veerahemanth1432@gmail.com">Veera Hemanth</a></li></h3>
+		</ul>
+	</div>
+
+<!---form-->
+<h1>The form element</h1>
+
+	<form action="/action_page.php">
+		  <label for="fname">First name:</label>   
+		  <input type="text" id="fname" name="fname"><br><br>   
+		  <label for="lname">Last name:</label>
+		  <input type="text" id="lname" name="lname"><br><br>
+		  <lable for="review">Feedback on Story:</lable>
+		  <input type="type" id="review" name="review"><br><br>
+		  <input type="submit" value="Submit">
+		  <p>Click on the "Submit" button to send the feedback</p>
+	</form>
+
+<!---select-->
+<h1>Rating for Story</h1>
+
+	<p>Please the give rating for the story</p>
+
+	<label for="rating">Rating for story:</label>
+
+	<select id="rating">
+  		<option value="excellent">Excellent</option>
+  		<option value="awesome">Awesome</option>
+  		<option value="good">Good</option>
+  		<option value="satisfied">Satisfied</option>
+  		<option value="bad">Bad</option>
+	</select>
+
+<!--audio-->
+<h1>The audio element</h1>
+
+	<p>Click on the play button to play a sound:</p>
+
+	<audio controls>
+	  <source src="Monkey.ogg" type="audio/ogg">
+	  <source src="Monkey.mp3" type="audio/mpeg">
+	</audio>
+
+<!---video-->
+<h3>
+	<ul>
+  	<li><a href="https://youtu.be/ykFLZywRxeM">Video of the story in you tube</a></li>
+	</ul>
+</h3>
+	<h1>The video element</h1>
+		<video width="320" height="240" controls>
+  		<source src="movie.mp4" type="video/mp4">
+  		<source src="movie.ogg" type="video/ogg">
+	</video>
+
+
+<!---iframe-->
+	<h1>The iframe element</h1>
+
+	<iframe src="http://www.shortstories4kids.com/" title="Bedtime Short Stories"> </iframe>
+
+<!---main-->
+	<main>
+		©2020.All Rights Recived
+	</main>
+
+<!---footer-->
+	<footer>
+		<p>Done by nanaamma1432</p>
+	</footer>
+</body>
+</html>
